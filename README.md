@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-AI-red)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
 # Smart Elevator Control System
 
 ## 📌 Overview
