@@ -72,4 +72,4 @@ The system authenticates the user using multiple methods. If authentication is s
 ---
 
 ## 👨‍💻 Author
-Error 404
+Error 404 team
