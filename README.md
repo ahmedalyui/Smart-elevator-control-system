@@ -5,7 +5,12 @@
 
 ## 📌 Overview
 This project is a smart elevator system built using Raspberry Pi and Python. It combines multiple AI-based authentication methods including face recognition, hand gesture detection, keypad security, and speech recognition to control and secure elevator access.
-
+## 🔥 Project Highlights
+- Multi-layer AI authentication system
+- Real-time computer vision processing
+- Embedded hardware control via Raspberry Pi
+- Secure keypad + servo locking mechanism
+- Expandable IoT-ready architecture
 ---
 
 ## ⚙️ Features
